@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519236318268">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519243200307">
   <folder name="css">
-    <file name="site_global.css" crc="3840589745"/>
+    <file name="site_global.css" crc="231147225"/>
     <file name="master_interior.css" crc="350247448" ref="custom:contact:gallery"/>
-    <file name="master_footer.css" crc="3902358701" ref="index:custom:contact:gallery"/>
+    <file name="master_footer.css" crc="532364696" ref="index:custom:contact:gallery"/>
     <file name="master_landing.css" crc="166429836" ref="index"/>
-    <file name="index.css" crc="3763868769" ref="index"/>
+    <file name="index.css" crc="530846557" ref="index"/>
     <file name="iefonts_index.css" crc="81695098" ref="index"/>
-    <file name="custom.css" crc="273088080" ref="custom"/>
-    <file name="contact.css" crc="4287073177" ref="contact"/>
+    <file name="custom.css" crc="252398307" ref="custom"/>
+    <file name="contact.css" crc="219115425" ref="contact"/>
     <file name="iefonts_contact.css" crc="4157136833" ref="contact"/>
-    <file name="gallery.css" crc="120836591" ref="gallery"/>
+    <file name="gallery.css" crc="506211009" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="apple-touch-icon.png" crc="52845883" seo="true" mt="1517857578000"/>
@@ -31,7 +31,7 @@
     <file name="form_check.php" crc="154010282" ref="contact"/>
     <file name="form_throttle.php" crc="266437015" ref="contact"/>
     <file name="form_process.php" crc="512629711" ref="contact"/>
-    <file name="form-u2120.php" crc="173850264" ref="contact"/>
+    <file name="form-u2120.php" crc="130562742" ref="contact"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="custom"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="custom"/>
     <file name="touchswipe.js" crc="4200445185" ref="custom"/>
@@ -246,8 +246,8 @@
     </folder>
     <file name="index.html" crc="312489414" seo="true" mt="1519235140052" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3991146836" seo="true" mt="1519236174973" redirect="true"/>
-  <file name="custom.html" crc="3963020339" seo="true" mt="1519236057350" redirect="true"/>
-  <file name="contact.html" crc="4147113458" seo="true" mt="1519236057350" redirect="true"/>
-  <file name="gallery.html" crc="3786024315" seo="true" mt="1519236057350" redirect="true"/>
+  <file name="index.html" crc="4193470767" seo="true" mt="1519241901457" redirect="true"/>
+  <file name="custom.html" crc="263921575" seo="true" mt="1519242161161" redirect="true"/>
+  <file name="contact.html" crc="397627555" seo="true" mt="1519241901457" redirect="true"/>
+  <file name="gallery.html" crc="430198617" seo="true" mt="1519241901457" redirect="true"/>
 </manifest>
