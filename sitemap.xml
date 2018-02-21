@@ -6,9 +6,21 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DinDinGifts.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/15135729_775222089283151_7773882953575767182_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/img-cancer-mug.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/img-baking-crop-u8757.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/img-dinner-crop-u8760.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://DinDinGifts.com/%D7%9E%D7%95%D7%AA%D7%90%D7%9D-%D7%90%D7%99%D7%A9%D7%99%D7%AA.html</loc>
+    <loc>http://DinDinGifts.com/custom.html</loc>
     <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -56,25 +68,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://DinDinGifts.com/%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D-%D7%94%D7%91%D7%90%D7%99%D7%9D.html</loc>
-    <lastmod>2018-02-19</lastmod>
+    <loc>http://DinDinGifts.com/contact.html</loc>
+    <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/15135729_775222089283151_7773882953575767182_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/img-cancer-mug.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/img-baking-crop-u8757.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/img-dinner-crop-u8760.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://DinDinGifts.com/%D7%92%D7%9C%D7%A8%D7%99%D7%AA-%D7%9E%D7%95%D7%A6%D7%A8%D7%99%D7%9D.html</loc>
+    <loc>http://DinDinGifts.com/gallery.html</loc>
     <lastmod>2018-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
