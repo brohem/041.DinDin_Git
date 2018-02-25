@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519243200307">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519583405900">
   <folder name="css">
-    <file name="site_global.css" crc="231147225"/>
-    <file name="master_interior.css" crc="350247448" ref="custom:contact:gallery"/>
-    <file name="master_footer.css" crc="532364696" ref="index:custom:contact:gallery"/>
-    <file name="master_landing.css" crc="166429836" ref="index"/>
-    <file name="index.css" crc="530846557" ref="index"/>
+    <file name="site_global.css" crc="4253540926"/>
+    <file name="master_interior.css" crc="241132086" ref="custom:contact:gallery"/>
+    <file name="master_footer.css" crc="20191424" ref="index:custom:contact:gallery"/>
+    <file name="master_landing.css" crc="4093679311" ref="index"/>
+    <file name="index.css" crc="3875500366" ref="index"/>
     <file name="iefonts_index.css" crc="81695098" ref="index"/>
-    <file name="custom.css" crc="252398307" ref="custom"/>
-    <file name="contact.css" crc="219115425" ref="contact"/>
+    <file name="custom.css" crc="105905596" ref="custom"/>
+    <file name="contact.css" crc="237570179" ref="contact"/>
     <file name="iefonts_contact.css" crc="4157136833" ref="contact"/>
-    <file name="gallery.css" crc="506211009" ref="gallery"/>
+    <file name="gallery.css" crc="4230589308" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="apple-touch-icon.png" crc="52845883" seo="true" mt="1517857578000"/>
@@ -78,64 +78,6 @@
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="101-1.jpg" crc="3825685068" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
-    <file name="loazi-m-brown-2.png" crc="4206104106" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
-    <file name="bordo-spesial dates-2.png" crc="366587008" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
     <file name="gallery-1-crop-u6423.jpg" crc="3869570485" seo="true" ref="gallery">
       <caption webpage="גלרית-מוצרים" alt=""/>
       <caption webpage="gallery" alt=""/>
@@ -185,27 +127,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
-    <file name="102.jpg" crc="3860604053" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
     <file name="cropped_hebrew-m-bordo.png" crc="39593324" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_white bb bar family(gray).png" crc="333214835" seo="true" ref="custom">
+    <file name="cropped_white bb bar family(gray).png" crc="4180872181" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_white(gray) - copy.png" crc="16856347" seo="true" ref="custom">
+    <file name="cropped_white(gray) - copy.png" crc="3882887872" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_white -spesial day of family(gray).png" crc="3938927614" seo="true" ref="custom">
+    <file name="cropped_white -spesial day of family(gray).png" crc="484005158" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_white-spesial dates(gray).png" crc="4058993608" seo="true" ref="custom">
+    <file name="cropped_white-spesial dates(gray).png" crc="3773369127" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
@@ -213,41 +151,39 @@
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_shevet white1-brown - copy.png" crc="4286111119" seo="true" ref="custom">
+    <file name="cropped_shevet white1-brown - copy.png" crc="3766629919" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_bb white-shevet(gray).png" crc="3842503967" seo="true" ref="custom">
+    <file name="cropped_bb white-shevet(gray).png" crc="213995466" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="cropped_shevet white - copy.png" crc="271828789" seo="true" ref="custom">
+    <file name="cropped_shevet white - copy.png" crc="4019273868" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
     </file>
-    <file name="loazi-m-bordo_cropped.png" crc="4285158629" seo="true" ref="custom">
+    <file name="fill 2-u27566.png" crc="4294529657" ref="custom"/>
+    <file name="fill 2-u27639.png" crc="4222457764" ref="custom"/>
+    <file name="fill 2-u27658.png" crc="141155522" ref="custom"/>
+    <file name="u27970.png" crc="4163998257" ref="custom"/>
+    <file name="u27970-r.png" crc="3878983696" ref="custom"/>
+    <file name="u27963.png" crc="4163998257" ref="custom"/>
+    <file name="u27963-r.png" crc="3878983696" ref="custom"/>
+    <file name="102-crop-u27483.jpg" crc="441022145" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
-    <file name="cropped_meshulav-bordo-white.png" crc="4103464625" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
-    </file>
-    <file name="cropped_bordo.png" crc="3946703124" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
-      <caption webpage="מותאם-אישית" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="4028413384" ref="phone>index"/>
-      <file name="index.css" crc="4014284349" ref="phone>index"/>
+      <file name="index.css" crc="4032748125" ref="phone>index"/>
       <file name="iefonts_index.css" crc="105632824" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="312489414" seo="true" mt="1519235140052" redirect="true"/>
+    <file name="index.html" crc="4229974893" seo="true" mt="1519505952091" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4193470767" seo="true" mt="1519241901457" redirect="true"/>
-  <file name="custom.html" crc="263921575" seo="true" mt="1519242161161" redirect="true"/>
-  <file name="contact.html" crc="397627555" seo="true" mt="1519241901457" redirect="true"/>
-  <file name="gallery.html" crc="430198617" seo="true" mt="1519241901457" redirect="true"/>
+  <file name="index.html" crc="162146991" seo="true" mt="1519582755304" redirect="true"/>
+  <file name="custom.html" crc="3995146920" seo="true" mt="1519583320128" redirect="true"/>
+  <file name="contact.html" crc="532076610" seo="true" mt="1519582755304" redirect="true"/>
+  <file name="gallery.html" crc="4292445150" seo="true" mt="1519582755304" redirect="true"/>
 </manifest>
