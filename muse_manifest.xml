@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519583405900">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519584330147">
   <folder name="css">
     <file name="site_global.css" crc="4253540926"/>
     <file name="master_interior.css" crc="241132086" ref="custom:contact:gallery"/>
@@ -6,7 +6,7 @@
     <file name="master_landing.css" crc="4093679311" ref="index"/>
     <file name="index.css" crc="3875500366" ref="index"/>
     <file name="iefonts_index.css" crc="81695098" ref="index"/>
-    <file name="custom.css" crc="105905596" ref="custom"/>
+    <file name="custom.css" crc="206898647" ref="custom"/>
     <file name="contact.css" crc="237570179" ref="contact"/>
     <file name="iefonts_contact.css" crc="4157136833" ref="contact"/>
     <file name="gallery.css" crc="4230589308" ref="gallery"/>
@@ -46,7 +46,7 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="menu" alt=""/>
     </file>
-    <file name="favicon.ico" crc="3884098585" ref="index"/>
+    <file name="favicon.ico" crc="3884098585" ref="index:custom"/>
     <file name="img-salad-darker.jpg" crc="510890391" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
@@ -56,7 +56,7 @@
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:custom"/>
-    <file name="15135729_775222089283151_7773882953575767182_n-u11851-fr.jpg" crc="474597793" ref="index:custom"/>
+    <file name="15135729_775222089283151_7773882953575767182_n-u11851-fr.jpg" crc="474597793" ref="index"/>
     <file name="img-cancer-mug.jpg" crc="4233066445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
@@ -75,8 +75,8 @@
     </file>
     <file name="img-breakfast-u1052-fr.jpg" crc="320955192" ref="index"/>
     <file name="15135729_775222089283151_7773882953575767182_n74x74.jpg" crc="3761199596" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="gallery-1-crop-u6423.jpg" crc="3869570485" seo="true" ref="gallery">
       <caption webpage="גלרית-מוצרים" alt=""/>
@@ -128,40 +128,40 @@
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
     <file name="cropped_hebrew-m-bordo.png" crc="39593324" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white bb bar family(gray).png" crc="4180872181" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white(gray) - copy.png" crc="3882887872" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white -spesial day of family(gray).png" crc="484005158" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-spesial dates(gray).png" crc="3773369127" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-bordo(gray).png" crc="380007449" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white1-brown - copy.png" crc="3766629919" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_bb white-shevet(gray).png" crc="213995466" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white - copy.png" crc="4019273868" seo="true" ref="custom">
-      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="fill 2-u27566.png" crc="4294529657" ref="custom"/>
     <file name="fill 2-u27639.png" crc="4222457764" ref="custom"/>
@@ -173,6 +173,7 @@
     <file name="102-crop-u27483.jpg" crc="441022145" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
     </file>
+    <file name="15135729_775222089283151_7773882953575767182_n-u11964-fr.jpg" crc="474597793" ref="custom"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -183,7 +184,7 @@
     <file name="index.html" crc="4229974893" seo="true" mt="1519505952091" redirect="true"/>
   </folder>
   <file name="index.html" crc="162146991" seo="true" mt="1519582755304" redirect="true"/>
-  <file name="custom.html" crc="3995146920" seo="true" mt="1519583320128" redirect="true"/>
+  <file name="custom.html" crc="482826373" seo="true" mt="1519584310039" redirect="true"/>
   <file name="contact.html" crc="532076610" seo="true" mt="1519582755304" redirect="true"/>
   <file name="gallery.html" crc="4292445150" seo="true" mt="1519582755304" redirect="true"/>
 </manifest>
