@@ -1,15 +1,18 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519584330147">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519586020943">
   <folder name="css">
     <file name="site_global.css" crc="4253540926"/>
-    <file name="master_interior.css" crc="241132086" ref="custom:contact:gallery"/>
-    <file name="master_footer.css" crc="20191424" ref="index:custom:contact:gallery"/>
+    <file name="master_interior.css" crc="98425042" ref="custom:contact:gallery"/>
+    <file name="master_footer.css" crc="321849704" ref="index:custom:contact:gallery"/>
     <file name="master_landing.css" crc="4093679311" ref="index"/>
     <file name="index.css" crc="3875500366" ref="index"/>
     <file name="iefonts_index.css" crc="81695098" ref="index"/>
-    <file name="custom.css" crc="206898647" ref="custom"/>
+    <file name="custom.css" crc="4261139249" ref="custom"/>
     <file name="contact.css" crc="237570179" ref="contact"/>
     <file name="iefonts_contact.css" crc="4157136833" ref="contact"/>
     <file name="gallery.css" crc="4230589308" ref="gallery"/>
+    <file name="nomq_preview_master_footer.css" crc="6913839" ref="custom"/>
+    <file name="nomq_preview_master_interior.css" crc="3824530138" ref="custom"/>
+    <file name="nomq_custom.css" crc="4158344943" ref="custom"/>
   </folder>
   <folder name="assets">
     <file name="apple-touch-icon.png" crc="52845883" seo="true" mt="1517857578000"/>
@@ -35,6 +38,7 @@
     <file name="musewpslideshow.js" crc="3781122836" ref="custom"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="custom"/>
     <file name="touchswipe.js" crc="4200445185" ref="custom"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="custom"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="206852916" ref="phone>index"/>
@@ -76,6 +80,7 @@
     <file name="img-breakfast-u1052-fr.jpg" crc="320955192" ref="index"/>
     <file name="15135729_775222089283151_7773882953575767182_n74x74.jpg" crc="3761199596" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
       <caption webpage="custom" alt=""/>
     </file>
     <file name="gallery-1-crop-u6423.jpg" crc="3869570485" seo="true" ref="gallery">
@@ -130,37 +135,46 @@
     <file name="cropped_hebrew-m-bordo.png" crc="39593324" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
       <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white bb bar family(gray).png" crc="4180872181" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
       <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white(gray) - copy.png" crc="3882887872" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
       <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white -spesial day of family(gray).png" crc="484005158" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
       <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-spesial dates(gray).png" crc="3773369127" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
       <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-bordo(gray).png" crc="380007449" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
       <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white1-brown - copy.png" crc="3766629919" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
       <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_bb white-shevet(gray).png" crc="213995466" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
       <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white - copy.png" crc="4019273868" seo="true" ref="custom">
       <caption webpage="מותאם-אישית" alt=""/>
+      <caption webpage="custom" alt=""/>
       <caption webpage="custom" alt=""/>
     </file>
     <file name="fill 2-u27566.png" crc="4294529657" ref="custom"/>
@@ -174,6 +188,16 @@
       <caption webpage="custom" alt=""/>
     </file>
     <file name="15135729_775222089283151_7773882953575767182_n-u11964-fr.jpg" crc="474597793" ref="custom"/>
+    <file name="fill 2-u275662.png" crc="4294529657" ref="custom"/>
+    <file name="fill 2-u276392.png" crc="4222457764" ref="custom"/>
+    <file name="fill 2-u276582.png" crc="141155522" ref="custom"/>
+    <file name="u279702.png" crc="4163998257" ref="custom"/>
+    <file name="u27970-r2.png" crc="3878983696" ref="custom"/>
+    <file name="u279632.png" crc="4163998257" ref="custom"/>
+    <file name="u27963-r2.png" crc="3878983696" ref="custom"/>
+    <file name="102-crop-u274832.jpg" crc="441022145" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -184,7 +208,7 @@
     <file name="index.html" crc="4229974893" seo="true" mt="1519505952091" redirect="true"/>
   </folder>
   <file name="index.html" crc="162146991" seo="true" mt="1519582755304" redirect="true"/>
-  <file name="custom.html" crc="482826373" seo="true" mt="1519584310039" redirect="true"/>
+  <file name="custom.html" crc="171357573" seo="true" mt="1519585969749" redirect="true"/>
   <file name="contact.html" crc="532076610" seo="true" mt="1519582755304" redirect="true"/>
   <file name="gallery.html" crc="4292445150" seo="true" mt="1519582755304" redirect="true"/>
 </manifest>
