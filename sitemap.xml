@@ -2,13 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://DinDinGifts.com/index.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://DinDinGifts.com/phone/index.html"/>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/15135729_775222089283151_7773882953575767182_n.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://DinDinGifts.com/images/img-cancer-mug.jpg</image:loc>
     </image:image>
@@ -18,15 +14,15 @@
     <image:image>
       <image:loc>http://DinDinGifts.com/images/img-dinner-crop-u8760.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/logo1-0.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://DinDinGifts.com/custom.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://DinDinGifts.com/images/15135729_775222089283151_7773882953575767182_n74x74.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://DinDinGifts.com/images/cropped_hebrew-m-bordo.png</image:loc>
     </image:image>
@@ -58,18 +54,21 @@
       <image:loc>http://DinDinGifts.com/images/102-crop-u27483.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://DinDinGifts.com/images/102-crop-u274832.jpg</image:loc>
+      <image:loc>http://DinDinGifts.com/images/logo1-2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://DinDinGifts.com/contact.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/logo1-2.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://DinDinGifts.com/gallery.html</loc>
-    <lastmod>2018-02-25</lastmod>
+    <lastmod>2018-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -98,6 +97,9 @@
     </image:image>
     <image:image>
       <image:loc>http://DinDinGifts.com/images/gallery-8464x310.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://DinDinGifts.com/images/logo1-2.png</image:loc>
     </image:image>
   </url>
   <url>

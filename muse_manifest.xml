@@ -1,66 +1,50 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519586020943">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519674471563">
   <folder name="css">
-    <file name="site_global.css" crc="4253540926"/>
-    <file name="master_interior.css" crc="98425042" ref="custom:contact:gallery"/>
-    <file name="master_footer.css" crc="321849704" ref="index:custom:contact:gallery"/>
-    <file name="master_landing.css" crc="4093679311" ref="index"/>
-    <file name="index.css" crc="3875500366" ref="index"/>
-    <file name="iefonts_index.css" crc="81695098" ref="index"/>
-    <file name="custom.css" crc="4261139249" ref="custom"/>
-    <file name="contact.css" crc="237570179" ref="contact"/>
-    <file name="iefonts_contact.css" crc="4157136833" ref="contact"/>
-    <file name="gallery.css" crc="4230589308" ref="gallery"/>
-    <file name="nomq_preview_master_footer.css" crc="6913839" ref="custom"/>
-    <file name="nomq_preview_master_interior.css" crc="3824530138" ref="custom"/>
-    <file name="nomq_custom.css" crc="4158344943" ref="custom"/>
+    <file name="site_global.css" crc="4009598098"/>
+    <file name="master_interior.css" crc="3875609804" ref="custom:contact:gallery"/>
+    <file name="master_footer.css" crc="3902358701" ref="index:custom:contact:gallery"/>
+    <file name="master_landing.css" crc="4017551099" ref="index"/>
+    <file name="index.css" crc="104726932" ref="index"/>
+    <file name="iefonts_index.css" crc="4286026794" ref="index"/>
+    <file name="custom.css" crc="4243861356" ref="custom"/>
+    <file name="contact.css" crc="478815148" ref="contact"/>
+    <file name="iefonts_contact.css" crc="317736034" ref="contact"/>
+    <file name="gallery.css" crc="3765632029" ref="gallery"/>
   </folder>
   <folder name="assets">
     <file name="apple-touch-icon.png" crc="52845883" seo="true" mt="1517857578000"/>
     <file name="katie-s-cafe-menu.pdf" crc="3986474251" seo="true" mt="1517857579000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="museutils.js" crc="4216313831" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="museconfig.js" crc="474374037" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:index:custom"/>
-    <file name="jquery.watch.js" crc="460461809" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="webpro.js" crc="4143865194" ref="phone>index:custom:contact"/>
-    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:custom"/>
-    <file name="jquery.scrolleffects.js" crc="128250821" ref="phone>index:index:custom"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="require.js" crc="3951022091" ref="phone>index:index:custom:contact:gallery"/>
-    <file name="form_check.php" crc="154010282" ref="contact"/>
-    <file name="form_throttle.php" crc="266437015" ref="contact"/>
-    <file name="form_process.php" crc="512629711" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:custom:contact:gallery"/>
+    <file name="museutils.js" crc="4216313831" ref="index:custom:contact:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:custom:contact:gallery"/>
+    <file name="museconfig.js" crc="474374037" ref="index:custom:contact:gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:custom"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:custom:contact:gallery"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:custom:contact:gallery"/>
+    <file name="webpro.js" crc="4143865194" ref="custom:contact"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="custom"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:custom"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:custom:contact:gallery"/>
+    <file name="require.js" crc="3951022091" ref="index:custom:contact:gallery"/>
+    <file name="form_check.php" crc="154010282" ref="custom"/>
+    <file name="form_throttle.php" crc="266437015" ref="custom"/>
+    <file name="form_process.php" crc="512629711" ref="custom"/>
     <file name="form-u2120.php" crc="130562742" ref="contact"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="custom"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="custom"/>
     <file name="touchswipe.js" crc="4200445185" ref="custom"/>
-    <file name="jquery.museresponsive.js" crc="4055310269" ref="custom"/>
+    <file name="form-u29009.php" crc="202284715" ref="custom"/>
   </folder>
   <folder name="images">
-    <file name="home-favicon.ico" crc="206852916" ref="phone>index"/>
-    <file name="img-hero.jpg" crc="3962312206" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo-landing.png" crc="513173495" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="favicon.ico" crc="3884098585" ref="index:custom"/>
+    <file name="favicon.ico" crc="3884098585" ref="index"/>
     <file name="img-salad-darker.jpg" crc="510890391" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
-    <file name="15135729_775222089283151_7773882953575767182_n.jpg" crc="147933021" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="ברוכים-הבאים" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index:custom"/>
-    <file name="15135729_775222089283151_7773882953575767182_n-u11851-fr.jpg" crc="474597793" ref="index"/>
+    <file name="15135729_775222089283151_7773882953575767182_n-u11851-fr.jpg" crc="3914519426" ref="index"/>
     <file name="img-cancer-mug.jpg" crc="4233066445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
@@ -69,19 +53,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
-    <file name="img-dinner-crop-u8760.jpg" crc="4094545662" seo="true" ref="index">
+    <file name="img-dinner-crop-u8760.jpg" crc="4124691983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
     <file name="img-cupcakes.jpg" crc="4130636537" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
-    </file>
-    <file name="img-breakfast-u1052-fr.jpg" crc="320955192" ref="index"/>
-    <file name="15135729_775222089283151_7773882953575767182_n74x74.jpg" crc="3761199596" seo="true" ref="custom">
-      <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="gallery-1-crop-u6423.jpg" crc="3869570485" seo="true" ref="gallery">
       <caption webpage="גלרית-מוצרים" alt=""/>
@@ -119,96 +97,88 @@
       <caption webpage="גלרית-מוצרים" alt=""/>
       <caption webpage="gallery" alt=""/>
     </file>
-    <file name="img-coffee.jpg" crc="4026209744" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-baking.jpg" crc="58186822" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img-salad.jpg" crc="4164938244" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img-cookie.jpg" crc="81782972" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
     </file>
     <file name="cropped_hebrew-m-bordo.png" crc="39593324" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white bb bar family(gray).png" crc="4180872181" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white(gray) - copy.png" crc="3882887872" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white -spesial day of family(gray).png" crc="484005158" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-spesial dates(gray).png" crc="3773369127" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_white-bordo(gray).png" crc="380007449" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white1-brown - copy.png" crc="3766629919" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_bb white-shevet(gray).png" crc="213995466" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="cropped_shevet white - copy.png" crc="4019273868" seo="true" ref="custom">
+      <caption webpage="custom" alt=""/>
       <caption webpage="מותאם-אישית" alt=""/>
-      <caption webpage="custom" alt=""/>
-      <caption webpage="custom" alt=""/>
     </file>
     <file name="fill 2-u27566.png" crc="4294529657" ref="custom"/>
     <file name="fill 2-u27639.png" crc="4222457764" ref="custom"/>
-    <file name="fill 2-u27658.png" crc="141155522" ref="custom"/>
-    <file name="u27970.png" crc="4163998257" ref="custom"/>
-    <file name="u27970-r.png" crc="3878983696" ref="custom"/>
-    <file name="u27963.png" crc="4163998257" ref="custom"/>
-    <file name="u27963-r.png" crc="3878983696" ref="custom"/>
     <file name="102-crop-u27483.jpg" crc="441022145" seo="true" ref="custom">
       <caption webpage="custom" alt=""/>
     </file>
-    <file name="15135729_775222089283151_7773882953575767182_n-u11964-fr.jpg" crc="474597793" ref="custom"/>
-    <file name="fill 2-u275662.png" crc="4294529657" ref="custom"/>
-    <file name="fill 2-u276392.png" crc="4222457764" ref="custom"/>
-    <file name="fill 2-u276582.png" crc="141155522" ref="custom"/>
-    <file name="u279702.png" crc="4163998257" ref="custom"/>
-    <file name="u27970-r2.png" crc="3878983696" ref="custom"/>
-    <file name="u279632.png" crc="4163998257" ref="custom"/>
-    <file name="u27963-r2.png" crc="3878983696" ref="custom"/>
-    <file name="102-crop-u274832.jpg" crc="441022145" seo="true" ref="custom">
+    <file name="logo1-0.png" crc="4126488397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-breakfast.jpg" crc="4162326879" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo1-2.png" crc="414078610" seo="true" ref="custom:contact:gallery">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="custom" alt=""/>
+      <caption webpage="custom" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u28763.png" crc="4163998257" ref="custom"/>
+    <file name="u28763-r.png" crc="3878983696" ref="custom"/>
+    <file name="u28760.png" crc="4163998257" ref="custom"/>
+    <file name="u28760-r.png" crc="3878983696" ref="custom"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="custom">
+      <caption webpage="custom" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="custom">
       <caption webpage="custom" alt=""/>
     </file>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="4028413384" ref="phone>index"/>
-      <file name="index.css" crc="4032748125" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="105632824" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4229974893" seo="true" mt="1519505952091" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="162146991" seo="true" mt="1519582755304" redirect="true"/>
-  <file name="custom.html" crc="171357573" seo="true" mt="1519585969749" redirect="true"/>
-  <file name="contact.html" crc="532076610" seo="true" mt="1519582755304" redirect="true"/>
-  <file name="gallery.html" crc="4292445150" seo="true" mt="1519582755304" redirect="true"/>
+  <file name="index.html" crc="359525942" seo="true" mt="1519674431782" redirect="true"/>
+  <file name="custom.html" crc="4097653720" seo="true" mt="1519671986034" redirect="true"/>
+  <file name="contact.html" crc="487885852" seo="true" mt="1519674431780" redirect="true"/>
+  <file name="gallery.html" crc="3763391971" seo="true" mt="1519671986034" redirect="true"/>
 </manifest>
