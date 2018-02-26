@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519675443794">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DinDinGifts.com" resolutions="1x" timestamp="1519675795085">
   <folder name="css">
     <file name="site_global.css" crc="4009598098"/>
-    <file name="master_interior.css" crc="4043717463" ref="custom:contact:gallery"/>
-    <file name="master_footer.css" crc="425123007" ref="index:custom:contact:gallery"/>
+    <file name="master_interior.css" crc="4104006015" ref="custom:contact:gallery"/>
+    <file name="master_footer.css" crc="4252834463" ref="index:custom:contact:gallery"/>
     <file name="master_landing.css" crc="498604400" ref="index"/>
     <file name="index.css" crc="349210798" ref="index"/>
     <file name="iefonts_index.css" crc="4286026794" ref="index"/>
-    <file name="custom.css" crc="499323394" ref="custom"/>
+    <file name="custom.css" crc="274368974" ref="custom"/>
     <file name="contact.css" crc="3819676275" ref="contact"/>
     <file name="iefonts_contact.css" crc="317736034" ref="contact"/>
     <file name="gallery.css" crc="36006168" ref="gallery"/>
@@ -14,7 +14,7 @@
     <file name="nomq_preview_master_footer.css" crc="6913839" ref="contact:index:gallery:custom"/>
     <file name="nomq_preview_master_interior.css" crc="3824530138" ref="contact:gallery:custom"/>
     <file name="nomq_index.css" crc="3824530138" ref="index"/>
-    <file name="nomq_custom.css" crc="3923175982" ref="custom"/>
+    <file name="nomq_custom.css" crc="4244312389" ref="custom"/>
   </folder>
   <folder name="assets">
     <file name="apple-touch-icon.png" crc="52845883" seo="true" mt="1517857578000"/>
@@ -44,7 +44,7 @@
     <file name="jquery.museresponsive.js" crc="4055310269" ref="custom"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3884098585" ref="index"/>
+    <file name="favicon.ico" crc="3884098585" ref="index:custom"/>
     <file name="img-salad-darker.jpg" crc="510890391" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="ברוכים-הבאים" alt=""/>
@@ -208,7 +208,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4242379437" seo="true" mt="1519675339499" redirect="true"/>
-  <file name="custom.html" crc="4220455390" seo="true" mt="1519675328261" redirect="true"/>
+  <file name="custom.html" crc="4148844218" seo="true" mt="1519675767468" redirect="true"/>
   <file name="contact.html" crc="3936935990" seo="true" mt="1519675328261" redirect="true"/>
   <file name="gallery.html" crc="88104095" seo="true" mt="1519675328261" redirect="true"/>
 </manifest>
