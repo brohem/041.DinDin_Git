@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dindingifts.com" resolutions="1x" timestamp="1519944270879">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dindingifts.com" resolutions="1x" timestamp="1519944907123">
   <folder name="css">
     <file name="site_global.css" crc="3978162396"/>
     <file name="master_common.css" crc="3775612169" ref="index:custom"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="index:custom:gallery:contact"/>
     <file name="index.css" crc="4161600405" ref="index"/>
     <file name="nomq_index.css" crc="63412445" ref="index"/>
-    <file name="custom.css" crc="3877965184" ref="custom"/>
-    <file name="nomq_custom.css" crc="229261076" ref="custom"/>
+    <file name="custom.css" crc="463310654" ref="custom"/>
+    <file name="nomq_custom.css" crc="491385069" ref="custom"/>
     <file name="gallery.css" crc="203146378" ref="gallery"/>
     <file name="nomq_gallery.css" crc="56867667" ref="gallery"/>
     <file name="contact.css" crc="203146378" ref="contact"/>
@@ -136,7 +136,7 @@
     <file name="u11847-r2.png" crc="284618268" ref="custom"/>
   </folder>
   <file name="index.html" crc="533522231" seo="true" mt="1519944176105" redirect="true"/>
-  <file name="custom.html" crc="4071584335" seo="true" mt="1519944176105" redirect="true"/>
+  <file name="custom.html" crc="3830255817" seo="true" mt="1519944767417" redirect="true"/>
   <file name="contact.html" crc="255480252" seo="true" mt="1519944176105" redirect="true"/>
   <file name="gallery.html" crc="236824922" seo="true" mt="1519944176105" redirect="true"/>
 </manifest>
